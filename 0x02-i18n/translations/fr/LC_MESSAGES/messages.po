@@ -1,7 +1,7 @@
-# French translations for PROJECT.
-# Copyright (C) 2023 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# French translations for il8n.
+# Copyright (C) 2023 Daniel Mulugeta
+# This file is distributed under the same license as the il8n project.
+# Daniel Mulugeta <mamiye05@gmail.com>, 2023.
 #
 msgid ""
 msgstr ""
